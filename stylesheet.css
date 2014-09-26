@@ -1,0 +1,28 @@
+@font-face{
+
+}
+
+body{
+	background-image: url("1.jpg");
+	width: 100%;
+	height: 100%;
+
+}
+
+h1{
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	color: white;
+	margin-top: 30%;
+	font-size: 100px;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+	margin-top: -5%;
+}
