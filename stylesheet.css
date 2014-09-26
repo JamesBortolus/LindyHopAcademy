@@ -18,6 +18,10 @@ h1{
 	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
 }
 
+a{
+	text-decoration: none;
+}
+
 p{
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
@@ -25,4 +29,12 @@ p{
 	font-size: 40px;
 	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
 	margin-top: -5%;
+}
+
+video#bgvid {
+position: fixed; right: 0;
+min-width: 100%; min-height: 100%;
+width: auto; height: auto; z-index: -100;
+background: url(2.jpg) no-repeat;
+background-size: cover;
 }
